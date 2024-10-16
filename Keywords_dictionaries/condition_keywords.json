@@ -1,0 +1,65 @@
+{
+    "ONCO": [
+        "neoplasms", "carcinoma", "tumor", "oncogenes", "metastasis", "cancer", "sarcoma",
+        "oncology", "Neoplasms", "Cancer", "Tumors", "Tumor", "Neoplasm", "malignancies", 
+        "Cancers", "Malignancy", "tumours", "Tumour", "Neoplasia", "Malignant neoplasm", 
+        "malignant tumors", "Oncologic", "Malignant tumor", "Malignant Neoplasms", 
+        "Neoplastic Disease", "Cancer NOS", "neoplasias", "neoplastic syndrome", 
+        "Oncology Service", "tumor NOS", "Malignant tumour", "oncology services", 
+        "Malignant neoplastic disease", "malignant tumours"
+    ],
+    "HEMATO": [
+        "hematology", "blood cells", "anemia", "coagulation", "hemophilia",
+        "Hematologic", "Blood Test", "Blood Tests", "blood testing", 
+        "Hematologic Tests", "blood analysis", "Hematologic Test"
+    ],
+    "HEMATO-ONCOLOGÍA": [
+        "leukemia", "lymphoma", "multiple myeloma", "hematologic neoplasms", "bone marrow"
+    ],
+    "CARDIO": [
+        "cardiovascular", "heart", "myocardial", "angina", "hypertension", "arrhythmia", "atherosclerosis",
+        "cardiology", "Cardiovascular", "Circulatory", "Cardiovascular System", "Card", 
+        "circulatory system", "Cardiovascular structure", "Cardiovascular Systems", 
+        "Cardiology service", "CV system"
+    ],
+    "REUMA": [
+        "Rheumatology", "lupus", "arthritis", "spondylitis", "rheumatism", "sjogren",
+        "rheumatic diseases", "Rheumatism", "Rheumatic Disease", "Musculoskeletal Pain Disorder", 
+        "Locomotor pain disorder"
+    ],
+    "NEURO": [
+        "Neurology", "neurological", "stroke", "brain", "neurodegenerative", "parkinson", "alzheimer", 
+        "multiple sclerosis", "epilepsy", "neurologic", "Nervous System", "Neurological", 
+        "Nervous Systems", "neurologic findings", "Neurological observations", "neurologic systems",
+        "neurologic diseases", "Nervous System Diseases", "diseases of the nervous system", 
+        "Nerve Diseases", "Neurological Disorders", "Neurological disorder", "neurologic disorder", 
+        "neurological disease", "Nervous System Disease", "neurologic disorders", "Nervous System Disorders", 
+        "Nervous system disorder", "disorders of the nervous system", "Disorder of Nervous System"
+    ],
+    "ENDOCRINO": [
+        "Endocrinology", "Endocrine", "Endocrine System", "Endocrine Systems", "Hormonal System", 
+        "Metabolism", "diabetes", "thyroid", "metabolic", "hormone", "adrenal", "pituitary",
+        "endocrine system diseases", "diseases endocrine", "Endocrine Disorders", "Hormone disturbance", 
+        "Endocrine Disease", "Endocrinopathy", "Endocrine Diseases", "endocrine disorder", 
+        "Endocrine system disease", "endocrinopathies", "endocrine system disorder", "disease endocrine"
+    ],
+    "VACUNAS": [
+        "vaccination", "Immunization", "Immunisation", "Vaccinations", "inoculation", "active immunization", "VACCIN", "Prophylactic vaccination", "vaccine", "immunization", "inoculation"
+    ],
+    "DERMA": [
+        "skin", "dermatologic", "psoriasis", "eczema", "cutaneous", 
+        "dermatologic disease", "Skin Diseases", "Skin Disease", "Dermatoses", "skin condition", 
+        "Skin Conditions", "Dermatosis", "Skin Disorders", "Dermatologic disorders", "dermopathy", 
+        "skin disorder", "dermatologic diseases", "Disorder of Skin", "of skin disease", 
+        "disease skin", "dermatological disease", "disease of skin", "Cutaneous disorders", 
+        "dermatological diseases", "integumentary disease", "diseases skin", 
+        "dermatologic condition", "disease", "Diseases", "Disorders", "Diagnosis", 
+        "disorder", "condition", "disease type"
+    ],
+    "GASTRO": [
+        "gastrointestinal", "hepatitis", "pancreatitis", "crohn", "ulcerative colitis", "gastritis", "GERD", "peptic ulcer", "IBS", "diverticulitis", "colonoscopy", "endoscopy", "colorectal cancer", "bloating", "diarrhea", "esophagitis", "celiac disease"
+    ],
+    "HEPATO": [
+        "hepatic", "cirrhosis", "liver", "hepatology", "hepatocellular", "hepatitis", "hepatomegaly", "liver disease", "liver cancer", "fatty liver", "bile duct", "cholestasis", "liver fibrosis", "liver function", "liver transplantation", "jaundice", "hepatic encephalopathy", "portal hypertension"
+    ]
+}
