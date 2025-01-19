@@ -56,7 +56,7 @@ FILES_AND_VARIABLES = [
 ]
 
 # Define the path to the folder containing the JSON files
-json_folder_path = os.path.join(os.path.dirname(__file__), 'Keywords_dictionaries')
+json_folder_path = os.path.join(os.path.dirname(__file__), 'Resources', 'Keywords_dictionaries')
 
 # Load keywords from JSON files with proper encoding
 for file_name, var_name in FILES_AND_VARIABLES:
